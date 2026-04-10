@@ -7,7 +7,7 @@
 </p>
 
 ---
-
+My Self Souvagya
 ## 🧠 About Me
 
 - 🔭 I'm currently working with **MERN Stack**
@@ -112,20 +112,16 @@
 
 [![Sajal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sajal-pakira&bg_color=000000&color=08fd0c&line=00ebdb&point=ffbc05&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 🎨 3D Contribution Graph
-![Sajal's 3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
 ---
 
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="mailto:uniquesajal6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://x.com/Unique_sajal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.instagram.com/sajal_pakira/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sajal-pakira-13661b241"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://sajal-pakira-portfolio-25.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:souvagya712404@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/K62378Das"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_souvagya_239_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/souvagya-kumar-das-5552a8358/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://souvagyakumardas.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
