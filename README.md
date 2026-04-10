@@ -89,9 +89,9 @@ My Self Souvagya
 
 <p align="center">
   
-  <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajal-pakira&theme=dracula"/><br>
-  <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sajal-pakira&theme=dracula"/>
-  <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sajal-pakira&theme=radical&utcOffset=5.30"/>
+  <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ExplorerSKD&theme=dracula"/><br>
+  <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ExplorerSKD&theme=dracula"/>
+  <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ExplorerSKD&theme=radical&utcOffset=5.30"/>
 </p>
 
 ---
@@ -131,12 +131,12 @@ My Self Souvagya
 > "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sajal-pakira/sajal-pakira/main/assets/fun.gif" width="300px" alt="Animated Fun"/>
+  <img src="https://raw.githubusercontent.com/ExplorerSKD/main/assets/fun.gif" width="300px" alt="Animated Fun"/>
 </p>
 
 ---
 
 <!-- Visitor Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sajal-pakira&label=Profile%20views&color=0e75b6&style=flat" alt="sajal-pakira" />
+  <img src=https://komarev.com/ghpvc/?username=ExplorerSKD&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22ExplorerSKD%22 />
 </p>
