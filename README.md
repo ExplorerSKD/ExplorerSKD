@@ -101,8 +101,8 @@ My Self Souvagya
 
 <p align="center">
   
-  <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=sajal-pakira&theme=radical&hide_border=true&layout=compact"/><br><br>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajal-pakira&theme=dracula"/>
+  <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=ExplorerSKD&theme=radical&hide_border=true&layout=compact"/><br><br>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ExplorerSKD&theme=dracula"/>
 </p>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
