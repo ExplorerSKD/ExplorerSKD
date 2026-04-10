@@ -12,7 +12,7 @@ My Self Souvagya
 
 - 🔭 I'm currently working with **MERN Stack**
 - 🌱 Exploring **Next.js, Typescript, Supabase, Three.js, GSAP**
-- 🌐 Check out my [Portfolio](https://sajal-pakira-portfolio-25.vercel.app/)
+- 🌐 Check out my [Portfolio](https://souvagyakumardas.netlify.app/)
 - 💬 Ask me about **React, Node, MongoDB, Express, Web Animations**
 - 🧩 Fun Fact: I love making things move with **GSAP & Three.js**
 
