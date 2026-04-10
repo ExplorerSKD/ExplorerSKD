@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://raw.githubusercontent.com/sajal-pakira/sajal-pakira/main/assets/banner.gif" width="100%" alt="Welcome Banner"/>
+<img src="https://raw.githubusercontent.com/ExplorerSKD/main/assets/banner.gif" width="100%" alt="Welcome Banner"/>
 
 <!-- Typing SVG Animation -->
 <p align="center">
@@ -131,7 +131,7 @@ My Self Souvagya
 > "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ExplorerSKD/main/assets/fun.gif" width="300px" alt="Animated Fun"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4Z3RrZzR4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="300px" alt="Coding is Fun"/>
 </p>
 
 ---
